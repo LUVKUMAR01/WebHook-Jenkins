@@ -11,10 +11,6 @@ public class HomeController {
 		return "This is Hello World!!";
 		
 	}
-	@RequestMapping("/hellotest")
-	public String hello()
-	{
-		return "this is hello test again";
-	}
+
 
 }
